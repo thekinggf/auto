@@ -11,7 +11,7 @@ from .Channel import (
 )
 
 HELP = """
-My Basic Commands
+My Commands
 /start :- check am Alive
 Bot Owner Only
 /broadcast Replay Any Message or Media
